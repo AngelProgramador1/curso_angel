@@ -1,1 +1,1 @@
-print("yo no lo descargo por  sque ya lo tengo")
+print("yo no lo descargo por  sdque ya lo tengo")
